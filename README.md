@@ -66,6 +66,14 @@ Initially created by [Marko](https://markodenic.com).
 
 [⬆ back to top](#table-of-contents)
 
+## Calendar
+
+| API                                                  | Description                                                         |
+|------------------------------------------------------|---------------------------------------------------------------------|
+| [OpenHolidays API](https://www.openholidaysapi.org/) | Public and school holidays for many countries via an open REST API. |
+
+[⬆ back to top](#table-of-contents)
+
 ## Music
 
 | API                                                             | Description                                                                                                                                             |
